@@ -1,0 +1,1 @@
+{'name': 'nexa-recording', 'version': '1.0.0', 'description': '录制会议内容 | Nexa Chat', 'author': {'name': 'Nexa Claw', 'url': 'https://nexaclaw.cn/', 'email': 'nexaclaw@outlook.com'}, 'license': 'MIT', 'homepage': 'https://nexaclaw.cn/', 'keywords': ['nexa-chat', 'ai', 'skill']}
